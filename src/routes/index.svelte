@@ -10,7 +10,7 @@
 	<div class="title-container">
 		<h1><span id="jeeves">Jeeves</span> Jenerator</h1>
 		<img
-			src="./static/images/jeeves-and-wooster-illustration.jpg"
+			src="./images/jeeves-and-wooster-illustration.jpg"
 			alt="Ink illustration of Jeeves and Wooster"
 		/>
 	</div>
