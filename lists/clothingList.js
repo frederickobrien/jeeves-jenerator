@@ -5,5 +5,7 @@ export const clothing = [
     'feather-tipped shoes',
     'a burgundy top hat',
     'denim socks',
-    'a polka dot blazer'
+    'a polka dot blazer',
+    'a pink-tinted monocle',
+    'a plaid muumuu'
 ];
