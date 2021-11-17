@@ -5,5 +5,6 @@ export const solutions = [
     'selling the story to the press and using the money to pay off those affected',
     'finding a doppelgänger to take the fall',
     'calling in a personal favour from Buckingham Palace',
-    'masterminding a coup to distract from Wooster’s missteps'
+    'masterminding a coup to distract from Wooster’s missteps',
+    'convincing all involved it was nothing but a dream',
   ];
