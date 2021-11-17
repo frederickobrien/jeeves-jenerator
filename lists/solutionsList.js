@@ -7,4 +7,5 @@ export const solutions = [
     'calling in a personal favour from Buckingham Palace',
     'masterminding a coup to distract from Wooster’s missteps',
     'convincing all involved it was nothing but a dream',
+    'revealing the whole affair was a social experiment run by his fellow valets at the Junior Ganymede Club'
   ];
