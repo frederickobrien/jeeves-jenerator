@@ -21,7 +21,7 @@
 	@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
 	main {
 		font-family: Georgia, 'Times New Roman', Times, serif;
-		width: 25%;
+		width: 90%;
 		margin: auto;
 	}
 
@@ -38,5 +38,21 @@
 
 	img {
 		width: 100%;
+	}
+
+	/* Tablet */
+
+	@media (min-width: 641px) {
+		main {
+			width: 50%;
+		}
+	}
+
+	/* Desktop */
+
+	@media (min-width: 1025px) {
+		main {
+			width: 25%;
+		}
 	}
 </style>

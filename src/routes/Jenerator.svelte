@@ -20,7 +20,12 @@
 </script>
 
 <div>
-	<button on:click={randomStory}>New story</button>
+	<div class="container">
+		<div class="center">
+			<button on:click={randomStory}>New story</button>
+		</div>
+	</div>
+
 	<p>
 		The old bird Percy Wooster is rather in the soup because <span
 			id="dilemma-text"
@@ -43,5 +48,30 @@
 
 	p {
 		line-height: 1.5;
+		padding-bottom: 50px;
+	}
+
+	.container {
+		height: 100px;
+		position: relative;
+	}
+
+	.center {
+		margin: 0;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		-ms-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+	}
+
+	button {
+		padding: 10px 20px;
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		background-color: #fe151b;
+		color: white;
+		font-size: 1.1em;
+		border-radius: 30px;
+		font-weight: bold;
 	}
 </style>
