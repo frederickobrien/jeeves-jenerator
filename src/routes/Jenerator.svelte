@@ -27,7 +27,7 @@
 	</div>
 
 	<p>
-		The old bird Percy Wooster is rather in the soup because <span
+		The old bird Bertie Wooster is rather in the soup because <span
 			id="dilemma-text"
 			class="random-text">...</span
 		>. Usually Jeeves would take care of it, but relations have been icy since Wooster started
