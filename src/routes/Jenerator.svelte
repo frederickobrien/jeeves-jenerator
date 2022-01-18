@@ -30,9 +30,9 @@
 		The old bird Bertie Wooster is rather in the soup because <span
 			id="dilemma-text"
 			class="random-text">...</span
-		>. Usually Jeeves would take care of it, but relations have been icy since Wooster started
+		>. Usually his trusty valet, Jeeves, would take care of it, but relations between the two have been icy since Wooster started
 		wearing
-		<span id="clothing-text" class="random-text">...</span>. Wooster tries to solve the problem
+		<span id="clothing-text" class="random-text">...</span>. Wooster tries to tackle the problem
 		himself but only makes it worse by <span id="mishap-text" class="random-text">... </span>. Just
 		when things are at their rummiest Jeeves saves the day by
 		<span id="solution-text" class="random-text">...</span>. Unspeakably grateful for the help,
